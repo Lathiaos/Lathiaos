@@ -1,23 +1,21 @@
 <div align="center">
-
-  <!-- Cyclist Banner Animation -->
-  <img src="./cyclist-banner.svg" alt="Arnaud Pré - Cyclist Banner Animation" width="100%" />
-
+  <img src="./cyclist-banner.svg" alt="Cyclist Banner Animation" width="100%" />
   <br/><br/>
-
-  <h1>👋 Salut, moi c'est Arnaud (Lathiaos) !</h1>
-
+  
+  <h1>👋 Salut, moi c'est Arnaud !</h1>
+  
   <p>
-    Élève en informatique à l'<b>ETML</b> (École des Métiers de Lausanne) 🇨🇭<br/>
+    Élève de deuxième année en informatique à l'École des Métiers de Lausanne<br/>
     Passionné par l'administration système, l'architecture réseau et la cybersécurité.
   </p>
-
+  <p>
+    Sinon j'ai 22 ans et me passionne pour le vélo et les jeux vidéos. Je vibe-code pas mal alors n'hésitez pas à visiter mes sites.
+  </p>
   <p>
     🌐 <b>Mes sites web :</b> 
     <a href="https://cybercrime.ape-lab.ch" target="_blank">cybercrime.ape-lab.ch</a> • 
     <a href="https://blog.ape-lab.ch" target="_blank">blog.ape-lab.ch</a>
   </p>
-
 </div>
 
 ---
@@ -50,10 +48,4 @@
 <div align="center">
   <img height="185" src="https://github-readme-stats.vercel.app/api?username=Lathiaos&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="Lathiaos GitHub Stats" />
   <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lathiaos&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
-<div align="center">
-  <sub>Généré pour le profil de Lathiaos • ETML Lausanne</sub>
 </div>
